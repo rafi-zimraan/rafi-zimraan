@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rafi zimraan arjuna wijaya</h1>
-<h3 align="center">A passionate Mobile Developer from Indonesia</h3>
+<h3 align="flex-start">A passionate Mobile Developer from Indonesia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi-zimraan&label=Profile%20views&color=0e75b6&style=flat" alt="rafi-zimraan" /> </p>
