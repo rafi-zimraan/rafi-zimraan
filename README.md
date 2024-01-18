@@ -11,7 +11,7 @@
   <li>📚 I am currently learning android programming  </li>
   <li>🎯 Goals: earn in dollar 💰 / live in a Europe and cold place ❄ and speak english 🚀  </li>
   <li>🎲 And ... my hobby hiking 🏔 and  bir 🍺</li>
-  <li>💬 Ask me abut <a href="https://flutter.dev">flutter</a> and <a  href="https://reactnative.dev">react-native</a>  </li>
+  <li>💬 Ask me abut <a href="https://flutter.dev">flutter</a> and <a href="https://reactnative.dev">react-native</a>  <a href="https://laravel.com">Laravel</a>  </li>
   <li>WhastApp me on <a href="https://wa.me/62895387744114">WhastApp</a> </li>
 </ul>
 
