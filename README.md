@@ -9,8 +9,9 @@
 <ul align="left">
 <li>✨ Creating bugs since 2022</li>
   <li>📚 I am currently learning android programming  </li>
-  <li>🎯 Goals: earn in dollar 💰 / live in a Europe and cold place ❄ and speak english 🚀  </li>
-  <li>🎲 And ... my hobby hiking 🏔 and  bir 🍺</li>
+  <li>🎯 Goals: earn in dollar 💰 / live in a Europe and cold place ❄ and speak english 🚀 </li>
+  <li>🎲 In my free time, I enjoy coding projects 🖥️ and experimenting with new technologies.</li>
+  <li>🏔 Additionally, my hobby is hiking, where I explore beautiful mountainous landscapes.</li
   <li>💬 Ask me abut <a href="https://flutter.dev">flutter</a> With <a href="https://reactnative.dev">react-native</a> And <a href="https://laravel.com">Laravel</a>  </li>
   <li>WhastApp me on <a href="https://wa.me/62895387744114">WhastApp</a> </li>
 </ul>
