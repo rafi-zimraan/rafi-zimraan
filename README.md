@@ -6,10 +6,8 @@
 
 ###
 
-
-
-<ul align="left">>
-    ✨ Creating bugs since 2022
+<ul align="left">
+<li>✨ Creating bugs since 2022</li>
   <li>📚 I am currently learning android programming  </li>
   <li>🎯 Goals: earn in dollar 💰 / live in a Europe and cold place ❄ and speak english 🚀  </li>
   <li>🎲 And ... my hobby hiking 🏔 and  bir 🍺</li>
