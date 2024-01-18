@@ -1,17 +1,22 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there, What's up? My name Rafi 👋</h1>
 
 ###
 
-<p align="left">My name is Rafi👋 and I'm a Mobile Developer from Yogyakarta, Indonesia</p>
+<h4 align="left">I'm a sofware engineer full-stack Mobile Developer in Yogyakarta, Special Region of Yogyakarya, Indonesia 👨‍💻</h4>
 
 ###
 
 
-<h2 align="left">About me</h2>
 
-###
+<ul align="left">>
+    ✨ Creating bugs since 2022
+  <li>📚 I am currently learning android programming  </li>
+  <li>🎯 Goals: earn in dollar 💰 / live in a Europe and cold place ❄ and speak english 🚀  </li>
+  <li>🎲 And ... my hobby hiking 🏔 and  bir 🍺</li>
+  <li>💬 Ask me abut <a href="https://flutter.dev">flutter</a> and <a  href="https://reactnative.dev">react-native</a>  </li>
+  <li>WhastApp me on <a href="62895387744114>WWhastApp</a> </li>
+</ul>
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I am currently learning android programming  <br>🎯 Goals: earn in dollar 💰 / live in a Europe and cold place ❄ and speak english 🚀<br>🎲 And ... my hobby hiking 🏔 and  bir 🍺</p>
 
 ###
 
