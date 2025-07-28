@@ -1,4 +1,3 @@
-![pondokDigital Image](https://raw.githubusercontent.com/rafi-zimraan/application-ismuhu-yahya/main/src/assets/backgroundApp.png)
 
 # Hey there, What's up? 👋
 
